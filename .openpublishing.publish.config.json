@@ -4,9 +4,9 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "azuretest630asfdsffda",
-      "build_source_folder": "azuretest630asfdsffda",
-      "build_output_subfolder": "azuretest630asfdsffda",
+      "docset_name": "mooncake",
+      "build_source_folder": "mooncake",
+      "build_output_subfolder": "mooncake",
       "locale": "zh-cn",
       "version": 0,
       "open_to_public_contributors": false,
